@@ -8,3 +8,6 @@ This repo contains Public Releases and Offical Resources from XMU'18 OOAD Contro
 ## Other Resources
  * [API Calling Conventions](https://github.com/TanYJie/ControllerWorkingGroup/blob/master/Calling%20Conventions.md)
  * [Member contact](https://github.com/TanYJie/ControllerWorkingGroup/blob/master/Contact.md)
+
+
+有些部分还未完善,欢迎提出意见
